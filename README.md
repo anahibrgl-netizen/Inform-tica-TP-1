@@ -28,7 +28,7 @@ Este proyecto explica cómo evolucionaron las herramientas de diseño gráfico e
 
 El desarrollo se realizó utilizando exclusivamente las herramientas autorizadas:
 
-* **Perplexity AI:** Esta herramienta se utilizó para investigar herramientas de diseño gráfico utilizadas entre 2021 y 2026, analizar la evolución de Adobe, Firefly, Canva, Figma y otras plataformas, estudiar el impacto de la IA generativa en la creación de imágenes, textos, videos y prototipos, comprender la evolución de Copilot dentro de Microsoft Word, analizar el uso de Agent Mode para editar documentos extensos e investigar la relación entre IA, revisión humana y control de cambios.
+* **Perplexity AI:** Esta herramienta se utilizo para investigar herramientas de diseño gráfico utilizadas entre 2021 y 2026, analizar la evolución de Adobe, Firefly, Canva, Figma y otras plataformas, estudiar el impacto de la IA generativa en la creación de imágenes, textos, videos y prototipos, comprender la evolución de Copilot dentro de Microsoft Word, analizar el uso de Agent Mode para editar documentos extensos e investigar la relación entre IA, revisión humana y control de cambios.
 * **Claude:** Se utilizó para la evaluación de datos, revisión de los archivos de google drive, diseño de la página y consolidación del código base unificado (`index.html` CSS interno y Chart.js).
 * **Netlify:** Plataforma de Infraestructura para publicar y actualizar la página web de forma automática y constante.
 * **Gemini NotebookLM:** Se utilizó para analizar, sintetizar e integrar los datos informativos del rol del diseñador con ia generativa y la evolución de las herramientas del diseño gráfico. 
