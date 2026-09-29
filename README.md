@@ -3,12 +3,12 @@ Trabajo Práctico N° 1
 # Proyecto Integrador: Evolución y Análisis Quinquenal sobre Diseño Gráfico con IA (2021-2026)
 
 ## Datos:
-* **Estudiante: Bergel Serena
-* **Carrera: Recursos Digitales y Marketing
-* **Materia/Tema:Informática, desarrollo informativo sobre herramientas de diseño e IA 
+* **Estudiante:** Bergel Serena
+* **Carrera:** Recursos Digitales y Marketing
+* **Materia/Tema:** Informática, desarrollo informativo sobre herramientas de diseño e IA 
 ---
- **Sitio Web desplegado (Netlify):** [https://analisis-proyecto-informatica.netlify.app/)]
- **Archivos Fuente en Google Drive:** [https://drive.google.com/drive/folders/1duh4L49-bqAebhQsHeHJz3JfhVGAitrh?usp=sharing)]
+* **Sitio Web desplegado (Netlify):** [https://analisis-proyecto-informatica.netlify.app/)]
+* **Archivos Fuente en Google Drive:** [https://drive.google.com/drive/folders/1duh4L49-bqAebhQsHeHJz3JfhVGAitrh?usp=sharing)]
 
 ---
 
