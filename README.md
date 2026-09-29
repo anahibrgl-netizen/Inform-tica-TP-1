@@ -1,5 +1,3 @@
-# Informática-TP-1
-Trabajo Práctico N° 1
 # Proyecto Integrador: Evolución y Análisis Quinquenal sobre Diseño Gráfico con IA (2021-2026)
 
 ## Datos:
