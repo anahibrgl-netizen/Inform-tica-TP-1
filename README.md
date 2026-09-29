@@ -13,7 +13,7 @@ Este proyecto explica cómo evolucionaron las herramientas de diseño gráfico e
 ---
 
 ## 🌐 Enlaces del Proyecto
-* **Sitio Web desplegado (Netlify):** [https://analisis-proyecto-informatica.netlify.app/)]
+* **Sitio Web desplegado (Netlify):** [https://pagina-proyecto-informatica.netlify.app/)]
 * **Archivos Fuente en Google Drive:** [https://drive.google.com/drive/folders/1duh4L49-bqAebhQsHeHJz3JfhVGAitrh?usp=sharing)]
   
 ---
